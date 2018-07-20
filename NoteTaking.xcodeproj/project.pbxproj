@@ -12,6 +12,7 @@
 		381BAC2E2100AAE000653C74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 381BAC2C2100AAE000653C74 /* Main.storyboard */; };
 		381BAC302100AAE100653C74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 381BAC2F2100AAE100653C74 /* Assets.xcassets */; };
 		381BAC332100AAE100653C74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 381BAC312100AAE100653C74 /* LaunchScreen.storyboard */; };
+		381BAC3B210163DE00653C74 /* detailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 381BAC3A210163DE00653C74 /* detailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		381BAC2F2100AAE100653C74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		381BAC322100AAE100653C74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		381BAC342100AAE100653C74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		381BAC3A210163DE00653C74 /* detailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				381BAC282100AAE000653C74 /* AppDelegate.swift */,
 				381BAC2A2100AAE000653C74 /* ViewController.swift */,
+				381BAC3A210163DE00653C74 /* detailViewController.swift */,
 				381BAC2C2100AAE000653C74 /* Main.storyboard */,
 				381BAC2F2100AAE100653C74 /* Assets.xcassets */,
 				381BAC312100AAE100653C74 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				381BAC2B2100AAE000653C74 /* ViewController.swift in Sources */,
 				381BAC292100AAE000653C74 /* AppDelegate.swift in Sources */,
+				381BAC3B210163DE00653C74 /* detailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
